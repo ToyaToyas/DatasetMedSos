@@ -1,10 +1,9 @@
 cff-version: 1.1.0
-message: "Jika Anda menggunakan software ini, harap sitasi sesuai informasi berikut:"
+message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Ridwan"
     given-names: "Ali"
     affiliation: "Institut Teknologi Sepuluh Nopember"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
   - family-names: "Afaf"
     given-names: "Muhammad"
     affiliation: "Institut Teknologi Sepuluh Nopember"
@@ -14,6 +13,8 @@ authors:
   - family-names: "Rakhmawati"
     given-names: "Nur Aini"
     affiliation: "Institut Teknologi Sepuluh Nopember"
-title: "Data Penggunaan Media Sosial Terhadap Perhatian Mahasiswa"
+    orcid: https://orcid.org/0000-0002-1321-4564
+title:ToyaToyas/DatasetMedSos: Data Penggunaan Media Sosial Terhadap Perhatian Mahasiswa
 version: "Dataset"
 doi: "10.5281/zenodo.14235532"
+date-released: 2024-11-28
